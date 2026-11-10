@@ -1,6 +1,6 @@
 # MyXPBar Played Time
 
-A World of Warcraft addon for [MyXPBar Forever](https://www.curseforge.com/wow/addons/myxpbar-forever). It shows how long you have been on your current level and your total time played, right next to the level on the XP bar:
+A World of Warcraft addon for [MyXPBar - Forever/Era](https://www.curseforge.com/wow/addons/myxpbarforeverera). It shows how long you have been on your current level and your total time played, right next to the level on the XP bar:
 
 `Level 35 (2h 45m · total 2d 6h)`
 
@@ -17,7 +17,7 @@ A World of Warcraft addon for [MyXPBar Forever](https://www.curseforge.com/wow/a
 |---|---|
 | WoW Forever | 16001 |
 
-Classic Era and other versions are not supported. Requires [MyXPBar Forever](https://www.curseforge.com/wow/addons/myxpbar-forever).
+Classic Era and other versions are not supported. Requires [MyXPBar - Forever/Era](https://www.curseforge.com/wow/addons/myxpbarforeverera).
 
 ## Installation
 

@@ -6,7 +6,7 @@ All documentation in this repository (README, AGENTS.md, code comments, commit m
 
 ## Project
 
-WoW addon `MyXPBarPlayedTime` (shown as "MyXPBar Played Time"): adds the time played at the current level and the total time played next to the level text of the third-party addon MyXPBar (by Polarz141, CurseForge `myxpbar-forever`), without changing MyXPBar.
+WoW addon `MyXPBarPlayedTime` (shown as "MyXPBar Played Time"): adds the time played at the current level and the total time played next to the level text of the third-party addon MyXPBar (by Polarz141, CurseForge "MyXPBar - Forever/Era", slug `myxpbarforeverera`), without changing MyXPBar.
 
 - `MyXPBarPlayedTime.toc`: addon manifest, interface `16001` (WoW Forever only, Classic Era is not supported), `## Dependencies: MyXPBar`. No SavedVariables.
 - `MyXPBarPlayedTime.lua`: everything. Short labels per client locale (`LOCALES`), played time tracking, the font string on the bar, events.
@@ -33,7 +33,7 @@ There is no automated test setup. Changes are verified in game with `/reload`; L
 
 ## Releasing
 
-Published on CurseForge as project `1796105` (https://www.curseforge.com/wow/addons/myxpbar-played-time) and as GitHub releases. Releases are built by `.github/workflows/release.yml` with the BigWigs packager (`.pkgmeta` sets the folder name, the required dependency `myxpbar-forever` and leaves out `AGENTS.md`/`CLAUDE.md`).
+Published on CurseForge as project `1796105` (https://www.curseforge.com/wow/addons/myxpbar-played-time) and as GitHub releases. Releases are built by `.github/workflows/release.yml` with the BigWigs packager (`.pkgmeta` sets the folder name, the required dependency `myxpbarforeverera` and leaves out `AGENTS.md`/`CLAUDE.md`).
 
 1. Commit and push the changes to `main`.
 2. Tag and push: `git tag -a vX.Y.Z -m "X.Y.Z"` and `git push origin vX.Y.Z` (semantic versioning).
