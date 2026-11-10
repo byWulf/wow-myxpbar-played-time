@@ -1,0 +1,19 @@
+## Interface: 16001
+## Title: MyXPBar Played Time
+## Notes: Shows your time played at the current level and in total next to the level on the MyXPBar XP bar.
+## Notes-deDE: Zeigt auf der MyXPBar-Leiste neben der Stufe deine Spielzeit auf dieser Stufe und insgesamt.
+## Notes-frFR: Affiche votre temps de jeu au niveau actuel et au total à côté du niveau sur la barre d'XP MyXPBar.
+## Notes-esES: Muestra tu tiempo jugado en el nivel actual y en total junto al nivel en la barra de experiencia de MyXPBar.
+## Notes-esMX: Muestra tu tiempo jugado en el nivel actual y en total junto al nivel en la barra de experiencia de MyXPBar.
+## Notes-ptBR: Mostra seu tempo de jogo no nível atual e no total ao lado do nível na barra de XP do MyXPBar.
+## Notes-ruRU: Показывает время игры на текущем уровне и общее время рядом с уровнем на полосе опыта MyXPBar.
+## Notes-koKR: MyXPBar 경험치 바의 레벨 옆에 현재 레벨의 플레이 시간과 총 플레이 시간을 표시합니다.
+## Notes-zhCN: 在 MyXPBar 经验条的等级旁显示当前等级的游戏时间和总游戏时间。
+## Notes-zhTW: 在 MyXPBar 經驗條的等級旁顯示目前等級的遊戲時間和總遊戲時間。
+## Author: byWulf
+## Version: @project-version@
+## X-License: MIT
+## Dependencies: MyXPBar
+## IconTexture: Interface\Icons\INV_Misc_PocketWatch_01
+
+MyXPBarPlayedTime.lua

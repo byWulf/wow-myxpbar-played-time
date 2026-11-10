@@ -1,0 +1,8 @@
+package-as: MyXPBarPlayedTime
+
+required-dependencies:
+  - myxpbar-forever
+
+ignore:
+  - AGENTS.md
+  - CLAUDE.md
