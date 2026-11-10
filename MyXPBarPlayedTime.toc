@@ -13,6 +13,7 @@
 ## Author: byWulf
 ## Version: @project-version@
 ## X-License: MIT
+## X-Curse-Project-ID: 1796105
 ## Dependencies: MyXPBar
 ## IconTexture: Interface\Icons\INV_Misc_PocketWatch_01
 

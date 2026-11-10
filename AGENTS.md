@@ -33,7 +33,7 @@ There is no automated test setup. Changes are verified in game with `/reload`; L
 
 ## Releasing
 
-Published on CurseForge and as GitHub releases. Releases are built by `.github/workflows/release.yml` with the BigWigs packager (`.pkgmeta` sets the folder name, the required dependency `myxpbar-forever` and leaves out `AGENTS.md`/`CLAUDE.md`).
+Published on CurseForge as project `1796105` (https://www.curseforge.com/wow/addons/myxpbar-played-time) and as GitHub releases. Releases are built by `.github/workflows/release.yml` with the BigWigs packager (`.pkgmeta` sets the folder name, the required dependency `myxpbar-forever` and leaves out `AGENTS.md`/`CLAUDE.md`).
 
 1. Commit and push the changes to `main`.
 2. Tag and push: `git tag -a vX.Y.Z -m "X.Y.Z"` and `git push origin vX.Y.Z` (semantic versioning).
